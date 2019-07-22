@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    jekyll-twitter-plugin (2.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jekyll-twitter-plugin
+
+BUNDLED WITH
+   1.16.1
